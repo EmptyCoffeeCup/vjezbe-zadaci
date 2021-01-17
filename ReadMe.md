@@ -1,3 +1,3 @@
 # zadaci
 
-Tomislav - rijeseni zadaci
+Tomislav - rijeseni zadaci!
